@@ -80,8 +80,8 @@ You: Can I return order O9999
 
 | Component | Technology |
 |---|---|
-| Language | Python 3.10+ |
-| AI Model | Gemini 2.0 Flash |
+| Language | Python 3.12+ |
+| AI Model | Gemini 2.5 Flash |
 | AI Client | google-genai |
 | Data | pandas |
 | Interface | CLI |
